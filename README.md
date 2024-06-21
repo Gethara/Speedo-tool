@@ -27,21 +27,21 @@ This project, speedo (speed research extraction & document object), is a researc
 
 Navigate to the project directory and run:
 
-    `pip install -r requirements.txt'
+    pip install -r requirements.txt
 
 
  3.   Edit .env
 
 Enter your openai API key in .env file:
 
-      `OPENAI_API_KEY=your_openai_api_key`
+    OPENAI_API_KEY=your_openai_api_key
 
 
 4. Run the application:
 
 Start the Streamlit app by running:
 
-      `streamlit run main.py`
+    streamlit run main.py
 
 
 
