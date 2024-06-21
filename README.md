@@ -52,14 +52,27 @@ Start the Streamlit app by running:
 
 1. Open your web browser and navigate to http://localhost:8501.
 
+   ![image](https://github.com/Gethara/Speedo-tool/assets/109304061/429467ea-e132-4230-8627-d7868e1e1aa6)
+
+
 2. Enter up to three URLs in the designated text boxes on the sidebar.
 
+   ![image](https://github.com/Gethara/Speedo-tool/assets/109304061/dc3a2108-42fd-4e94-8282-4d61cf24831b)
+
+   
 3. Click the "Process URLs" button. The application will load and process the provided URLs, displaying progress indicators.
 
-4. Once processing is complete, a text box will appear for you to enter your question.
+   ![image](https://github.com/Gethara/Speedo-tool/assets/109304061/48c42672-f8c8-4982-a0f3-e4ffed9f9352)
+   
 
-5. Click the "Submit" button to retrieve an answer and any relevant sources based on the processed text.
+5. Once processing is complete, a text box will appear for you to enter your question.
 
+   ![image](https://github.com/Gethara/Speedo-tool/assets/109304061/70060a45-1088-4f21-a56d-f30c83b30328)
+
+
+6. Click the "Submit" button to retrieve an answer and any relevant sources based on the processed text.
+
+   ![image](https://github.com/Gethara/Speedo-tool/assets/109304061/655671b6-5c10-44a0-9951-bbe2cde3cf38)
 
 
 
@@ -76,7 +89,7 @@ Start the Streamlit app by running:
 
 *  **Text Splitting:** RecursiveCharacterTextSplitter (Langchain)
 
-*   **Embeddings:** OpenAIEmbeddings (Langchain OpenAI
+*   **Embeddings:** OpenAIEmbeddings (Langchain OpenAI)
 *   **Vector Store:** Chroma (Langchain Chroma)
 
 
