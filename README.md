@@ -32,7 +32,7 @@ Navigate to the project directory and run:
 
  3.   Edit .env
 
-Enter your open ai API key in .env file:
+Enter your openai API key in .env file:
 
       `OPENAI_API_KEY=your_openai_api_key`
 
